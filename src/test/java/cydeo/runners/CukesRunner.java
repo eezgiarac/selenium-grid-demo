@@ -16,3 +16,10 @@ import org.junit.runner.RunWith;
         publish = true
 )
 public class CukesRunner {}
+
+/*
+
+çalıştırmak için hangi toolslara ihtiyacımız var.
+maven for build
+java
+ */
